@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{C3340442-B825-4D96-AA8D-4F05BE91D616}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POSTerminal/POSTerminal.cs">
+    <Files>
+      <File FileName="POSTerminal/Services/HandleRequest.cs" Line="13" Column="1" />
+      <File FileName="POSTerminal/Services/SingleCalculate.cs" Line="19" Column="1" />
+      <File FileName="POSTerminal/Services/BulkCalculate.cs" Line="21" Column="51" />
+      <File FileName="POSTerminal/Model/POSModel.cs" Line="39" Column="70" />
+      <File FileName="POSTerminal/POSTerminal.cs" Line="25" Column="1" />
+      <File FileName="POSTerminalTest/UnitTest1.cs" Line="51" Column="1" />
+      <File FileName="POSTerminal/Program.cs" Line="9" Column="43" />
+      <File FileName="POSTerminalTest/ExpectionTest.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POSTerminal" expanded="True">
+            <Node name="POSTerminal" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="POSTerminal.cs" selected="True" />
+            </Node>
+            <Node name="POSTerminalTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="POSTerminal" expanded="True">
+            <Node name="POSTerminalTest" expanded="True">
+              <Node name="POSTerminalTest" expanded="True">
+                <Node name="Utest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POSTerminal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.POSTerminalTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

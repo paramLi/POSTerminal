@@ -1,0 +1,12 @@
+/Users/amberli/Projects/POSTerminal/POSTerminal/bin/Debug/netcoreapp3.1/POSTerminal.deps.json
+/Users/amberli/Projects/POSTerminal/POSTerminal/bin/Debug/netcoreapp3.1/POSTerminal.runtimeconfig.json
+/Users/amberli/Projects/POSTerminal/POSTerminal/bin/Debug/netcoreapp3.1/POSTerminal.runtimeconfig.dev.json
+/Users/amberli/Projects/POSTerminal/POSTerminal/bin/Debug/netcoreapp3.1/POSTerminal.dll
+/Users/amberli/Projects/POSTerminal/POSTerminal/bin/Debug/netcoreapp3.1/POSTerminal.pdb
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.csprojAssemblyReference.cache
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.AssemblyInfoInputs.cache
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.AssemblyInfo.cs
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.csproj.CoreCompileInputs.cache
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.dll
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.pdb
+/Users/amberli/Projects/POSTerminal/POSTerminal/obj/Debug/netcoreapp3.1/POSTerminal.genruntimeconfig.cache
