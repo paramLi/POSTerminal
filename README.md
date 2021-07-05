@@ -1,10 +1,6 @@
 # POSTerminal
 A point-of-sale scanning system class library. Accepts a list of products then calculates the total price for an order based on per-unit or volume prices as applicable.
 
-You will be prompted to enter the scanned products. 
-
-> eg. A,A,B,C,A,B,D,A
-
 Available products include:
 | Product | Scannable ID | Single Price | Bulk Price  |
 |---------|--------------|--------------|-------------|
